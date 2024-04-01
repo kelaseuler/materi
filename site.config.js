@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "Kelas Euler",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "Pendidikan untuk semua.",
+    role: "Pendidikan untuk semua",
+    bio: "Untuk bangsa dan negara",
     email: "eulerkelas@gmail.com",
     linkedin: "Rafael Feng",
     github: "Rafael Feng",
@@ -13,17 +13,17 @@ const CONFIG = {
   projects: [
     {
       name: `Kelas Euler`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/kelaseuler/materi",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Kelas Euler",
+    description: "Selamat datang! Selamat belajar!",
   },
 
  // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://materi-kelaseulers-projects.vercel.app/",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
