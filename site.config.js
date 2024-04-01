@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Kelas Euler",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Pendidikan untuk semua",
-    bio: "Untuk bangsa dan negara",
+    bio: "Untuk bangsa, untuk negara",
     email: "eulerkelas@gmail.com",
     linkedin: "Rafael Feng",
     github: "Rafael Feng",
