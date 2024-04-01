@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://materi-blue.vercel.app/
+Host: https://materi-blue.vercel.app
 
 # Sitemaps
 Sitemap: https://materi-blue.vercel.app/sitemap.xml
